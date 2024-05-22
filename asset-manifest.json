@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AkshyaaS/ReactIpodApp/static/css/main.7a36370c.css",
+    "main.js": "/AkshyaaS/ReactIpodApp/static/js/main.c9db7f87.js",
+    "static/media/TroyBoiAfterhours.mp3": "/AkshyaaS/ReactIpodApp/static/media/TroyBoiAfterhours.2463092703220882fe2d.mp3",
+    "static/media/coverflow.png": "/AkshyaaS/ReactIpodApp/static/media/coverflow.8fd5fa6b3193238e9882.png",
+    "static/media/albums.png": "/AkshyaaS/ReactIpodApp/static/media/albums.212396925861df2bc7cc.png",
+    "static/media/games.jpg": "/AkshyaaS/ReactIpodApp/static/media/games.267611de302a8f6dc337.jpg",
+    "static/media/thumbnail.jpg": "/AkshyaaS/ReactIpodApp/static/media/thumbnail.1917b898efdbfcba9342.jpg",
+    "static/media/artists.jpg": "/AkshyaaS/ReactIpodApp/static/media/artists.0fa55793919e01da85c4.jpg",
+    "index.html": "/AkshyaaS/ReactIpodApp/index.html",
+    "main.7a36370c.css.map": "/AkshyaaS/ReactIpodApp/static/css/main.7a36370c.css.map",
+    "main.c9db7f87.js.map": "/AkshyaaS/ReactIpodApp/static/js/main.c9db7f87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a36370c.css",
+    "static/js/main.c9db7f87.js"
+  ]
+}
